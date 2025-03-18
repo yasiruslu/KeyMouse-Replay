@@ -1,0 +1,233 @@
+[
+    {
+        "time": 0,
+        "action": "Kay\u0131t Ba\u015flad\u0131"
+    },
+    {
+        "time": 8.37,
+        "action": 3,
+        "coordinate": [
+            1053.53515625,
+            493.140625
+        ]
+    },
+    {
+        "time": 13.01,
+        "action": 3,
+        "coordinate": [
+            1045.421875,
+            530.55078125
+        ]
+    },
+    {
+        "time": 17.09,
+        "action": 3,
+        "coordinate": [
+            1044.1953125,
+            530.01171875
+        ]
+    },
+    {
+        "time": 21.04,
+        "action": 3,
+        "coordinate": [
+            1043.15234375,
+            492.5703125
+        ]
+    },
+    {
+        "time": 24.97,
+        "action": 3,
+        "coordinate": [
+            1029.67578125,
+            529.7578125
+        ]
+    },
+    {
+        "time": 28.24,
+        "action": 3,
+        "coordinate": [
+            1035.078125,
+            533.7109375
+        ]
+    },
+    {
+        "time": 29.46,
+        "action": 3,
+        "coordinate": [
+            1025.17578125,
+            533.16015625
+        ]
+    },
+    {
+        "time": 30.7,
+        "action": 3,
+        "coordinate": [
+            1025.17578125,
+            533.16015625
+        ]
+    },
+    {
+        "time": 53.77,
+        "action": 3,
+        "coordinate": [
+            1022.69921875,
+            489.1484375
+        ]
+    },
+    {
+        "time": 57.79,
+        "action": 3,
+        "coordinate": [
+            1026.859375,
+            531.890625
+        ]
+    },
+    {
+        "time": 60.8,
+        "action": 3,
+        "coordinate": [
+            1026.859375,
+            531.890625
+        ]
+    },
+    {
+        "time": 62.49,
+        "action": 3,
+        "coordinate": [
+            1026.859375,
+            531.890625
+        ]
+    },
+    {
+        "time": 65.34,
+        "action": 3,
+        "coordinate": [
+            1022.51171875,
+            502.046875
+        ]
+    },
+    {
+        "time": 72.87,
+        "action": 3,
+        "coordinate": [
+            1022.3671875,
+            523.58984375
+        ]
+    },
+    {
+        "time": 78.15,
+        "action": 3,
+        "coordinate": [
+            1051.50390625,
+            539.80078125
+        ]
+    },
+    {
+        "time": 83.81,
+        "action": 3,
+        "coordinate": [
+            1051.50390625,
+            539.80078125
+        ]
+    },
+    {
+        "time": 95.1,
+        "action": 3,
+        "coordinate": [
+            1121.25390625,
+            529.7578125
+        ]
+    },
+    {
+        "time": 98.65,
+        "action": 3,
+        "coordinate": [
+            1129.71484375,
+            534.60546875
+        ]
+    },
+    {
+        "time": 99.54,
+        "action": 3,
+        "coordinate": [
+            1129.8359375,
+            534.7265625
+        ]
+    },
+    {
+        "time": 120.75,
+        "action": 0,
+        "key": "Key.enter"
+    },
+    {
+        "time": 120.88,
+        "action": 1,
+        "key": "Key.enter"
+    },
+    {
+        "time": 123.37,
+        "action": 0,
+        "key": "a"
+    },
+    {
+        "time": 123.51,
+        "action": 1,
+        "key": "a"
+    },
+    {
+        "time": 123.56,
+        "action": 0,
+        "key": "d"
+    },
+    {
+        "time": 123.7,
+        "action": 1,
+        "key": "d"
+    },
+    {
+        "time": 123.96,
+        "action": 0,
+        "key": "b"
+    },
+    {
+        "time": 124.07,
+        "action": 1,
+        "key": "b"
+    },
+    {
+        "time": 126.17,
+        "action": 0,
+        "key": "a"
+    },
+    {
+        "time": 126.29,
+        "action": 1,
+        "key": "a"
+    },
+    {
+        "time": 126.39,
+        "action": 0,
+        "key": "n"
+    },
+    {
+        "time": 126.49,
+        "action": 1,
+        "key": "n"
+    },
+    {
+        "time": 128.45,
+        "action": 0,
+        "key": "Key.enter"
+    },
+    {
+        "time": 128.59,
+        "action": 1,
+        "key": "Key.enter"
+    },
+    {
+        "time": 133.16,
+        "action": 0,
+        "key": "Key.esc"
+    }
+]
